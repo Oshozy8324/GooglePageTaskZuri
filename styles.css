@@ -46,6 +46,7 @@ input{
     padding: 1em;
     border-radius: 30px;
     border: 0.5px solid gray;
+    box-shadow: 1.5px 1.5px 1.5px 1.5px;
 }
 
 input:hover{
